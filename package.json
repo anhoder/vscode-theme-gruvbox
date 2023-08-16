@@ -1,9 +1,9 @@
 {
-  "name": "gruvbox",
-  "displayName": "Gruvbox Theme",
-  "description": "Gruvbox Theme",
-  "version": "1.8.0",
-  "author": "jdinhify (https://github.com/jdinhify)",
+  "name": "gruvbox-anhoder",
+  "displayName": "Gruvbox Anhoder Theme",
+  "description": "Gruvbox Anhoder Theme",
+  "version": "1.8.1",
+  "author": "anhoder (https://github.com/anhoder)",
   "contributors": [
     "eximus (https://github.com/3ximus)",
     "Josh Addington (https://github.com/JoshAddington)",
@@ -17,7 +17,7 @@
     "Anton Shpigunov (https://github.com/shpigunov)",
     "Piotr Więckiewicz (https://github.com/piotrwieckiewicz)"
   ],
-  "publisher": "jdinhlife",
+  "publisher": "anhoder",
   "engines": {
     "vscode": "^1.67.2"
   },
@@ -29,13 +29,18 @@
     "color": "#3c3836",
     "theme": "dark"
   },
-  "homepage": "https://github.com/jdinhify/vscode-theme-gruvbox",
+  "homepage": "https://github.com/anhoder/vscode-theme-gruvbox",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jdinhify/vscode-theme-gruvbox.git"
+    "url": "https://github.com/anhoder/vscode-theme-gruvbox.git"
   },
   "contributes": {
     "themes": [
+      {
+        "label": "Gruvbox Dark Anhoder",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox-dark-anhoder.json"
+      },
       {
         "label": "Gruvbox Dark Medium",
         "uiTheme": "vs-dark",
@@ -67,11 +72,6 @@
         "path": "./themes/gruvbox-light-soft.json"
       }
     ]
-  },
-  "__metadata": {
-    "id": "c6d564c4-ca8c-45ba-abf6-c85f2d1468d8",
-    "publisherDisplayName": "jdinhify",
-    "publisherId": "571210a8-f372-43c2-8b5a-018868d4ac96"
   },
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.1",

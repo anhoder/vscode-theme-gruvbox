@@ -14,4 +14,4 @@ github repo: https://github.com/anhoder/vscode-theme-gruvbox
 
 ### Preview 
 
-![screenshots](./images/screenshots.png)
+![screenshots](https://raw.githubusercontent.com/anhoder/vscode-theme-gruvbox/main/images/screenshots.png)

@@ -1,4 +1,4 @@
-Another gruvbox theme optimized for go, it based on [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox).
+Another gruvbox theme optimized for golang, it based on [vscode-theme-gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox).
 
 github repo: https://github.com/anhoder/vscode-theme-gruvbox
 

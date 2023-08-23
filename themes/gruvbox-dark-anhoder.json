@@ -1124,8 +1124,8 @@
     "type.definition:go": "#6fafbd",
     "type.defaultLibrary:go": "#cc7832",
     "variable:go": "#83a598",
-    // "variable.readonly.defaultLibrary:go": "#ef4433",
-    "variable.readonly:go": "#cc7832",
+    "variable.readonly.defaultLibrary:go": "#cc7832",
+    "variable.readonly:go": "#d3869b",
     "variable.definition.readonly:go": "#d3869b",
     "method.definition:go": "#b8bb26",
     "function.defaultLibrary:go": "#b8bb26"

@@ -766,6 +766,37 @@
         "foreground": "#fe8019"
       }
     },
+    // php ---------------------------------------
+    {
+      "scope": ["variable.other.property.php"],
+      "settings": {
+        "foreground": "#6FAFBD"
+      }
+    },
+    {
+      "scope": ["entity.name.type.class.php", "support.class.php", "support.class.builtin.php", "meta.class.php", "entity.name.type.interface.php", "entity.name.type.trait.php"],
+      "settings": {
+        "foreground": "#8ec07c"
+      }
+    },
+    {
+      "scope": ["source.php meta.use"],
+      "settings": {
+        "foreground": "#83a598"
+      }
+    },
+    {
+      "scope": ["storage.type.function.php"],
+      "settings": {
+        "foreground": "#FE8019"
+      }
+    },
+    {
+      "scope": ["source.php support.function.constructor", "meta.function-call.php"],
+      "settings": {
+        "foreground": "#B09D79"
+      }
+    },
     // golang --------------------------------------------
     {
       "scope": ["source.go entity.other.attribute-name"],
